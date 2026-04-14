@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . '/includes/header.php';
+include('Includes/header.php');
 ?>
 
 <section class="content">
@@ -8,4 +8,5 @@ require __DIR__ . '/includes/header.php';
 </section>
 
 <?php
-require __DIR__ . '/includes/footer.php';
+include('Includes/footer.php');
+?>
