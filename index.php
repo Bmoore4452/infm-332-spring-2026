@@ -7,7 +7,7 @@ include('Includes/header.php');
   <p>This class project will use PHP and MySQL.</p>
   <p> Test </p>
 </section>
-
+<?php echo "Hello, World!"; ?>
 <?php
 include('Includes/footer.php');
 ?>
